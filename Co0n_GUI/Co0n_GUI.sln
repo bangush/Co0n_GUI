@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Co0n_GUI", "Co0n_GUI\Co0n_GUI.csproj", "{EEF24D03-1187-4763-9998-BA98E43630AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF24D03-1187-4763-9998-BA98E43630AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF24D03-1187-4763-9998-BA98E43630AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF24D03-1187-4763-9998-BA98E43630AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF24D03-1187-4763-9998-BA98E43630AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61890AD7-5000-4590-82DB-D43E805533DE}
+	EndGlobalSection
+EndGlobal
